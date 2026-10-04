@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс сокровища",
+    "ru_ru": "Кейс сокровища"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:emerald",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_block",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:emerald_block",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond_block",
+      "rarity": 4
+    }
+  ],
+  "color": "#DAA520"
+}

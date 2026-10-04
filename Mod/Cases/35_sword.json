@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс мечей",
+    "ru_ru": "Кейс мечей"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:wooden_sword",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:stone_sword",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_sword",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_sword",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond_sword",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_apple",
+      "rarity": 4
+    }
+  ],
+  "color": "#696969"
+}

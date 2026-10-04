@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс брони",
+    "ru_ru": "Кейс брони"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:iron_ingot",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_block",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_helmet",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_chestplate",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond_helmet",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond_chestplate",
+      "rarity": 4
+    }
+  ],
+  "color": "#778899"
+}

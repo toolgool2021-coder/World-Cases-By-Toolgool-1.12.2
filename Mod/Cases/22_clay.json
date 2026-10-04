@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс глины",
+    "ru_ru": "Кейс глины"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:clay",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:stained_hardened_clay",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:hardened_clay",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:brick_block",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glass",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#C2B280"
+}

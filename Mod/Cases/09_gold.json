@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс золота",
+    "ru_ru": "Кейс золота"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_block",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_ingot",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_nugget",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_apple",
+      "rarity": 4
+    }
+  ],
+  "color": "#DAA520"
+}

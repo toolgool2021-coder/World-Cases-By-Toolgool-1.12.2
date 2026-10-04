@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс Незера",
+    "ru_ru": "Кейс Незера"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:netherrack",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:soul_sand",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:quartz_ore",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:quartz_block",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glowstone",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:blaze_rod",
+      "rarity": 4
+    }
+  ],
+  "color": "#8B0000"
+}

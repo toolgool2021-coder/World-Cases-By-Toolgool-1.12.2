@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс камня",
+    "ru_ru": "Кейс камня"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:stone",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:cobblestone",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gravel",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:sandstone",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:stonebrick",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:obsidian",
+      "rarity": 4
+    }
+  ],
+  "color": "#696969"
+}

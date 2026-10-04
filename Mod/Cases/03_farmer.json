@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс фермера",
+    "ru_ru": "Кейс фермера"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:wheat",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:carrots",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:potatoes",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:beetroot",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:hay_block",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_apple",
+      "rarity": 4
+    }
+  ],
+  "color": "#6B8E23"
+}

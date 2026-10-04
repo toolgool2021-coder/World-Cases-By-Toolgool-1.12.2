@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Красный кейс",
+    "ru_ru": "Красный кейс"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:red_wool",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:redstone",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:redstone_block",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:brick_block",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#B22222"
+}

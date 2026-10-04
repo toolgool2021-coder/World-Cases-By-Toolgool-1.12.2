@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс Края",
+    "ru_ru": "Кейс Края"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:end_stone",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:obsidian",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:ender_pearl",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:chorus_fruit",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:purpur_block",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#663399"
+}

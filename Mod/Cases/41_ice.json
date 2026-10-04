@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс льда",
+    "ru_ru": "Кейс льда"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:ice",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:packed_ice",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:snow",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glass",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:quartz_block",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#87CEEB"
+}

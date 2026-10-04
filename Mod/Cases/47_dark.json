@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Тёмный кейс",
+    "ru_ru": "Тёмный кейс"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:coal",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:obsidian",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:black_wool",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:ink_sack",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond_block",
+      "rarity": 4
+    }
+  ],
+  "color": "#202020"
+}

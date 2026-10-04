@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Светлый кейс",
+    "ru_ru": "Светлый кейс"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:quartz_block",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glass",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:snow",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glowstone",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_apple",
+      "rarity": 4
+    }
+  ],
+  "color": "#E6E6E6"
+}

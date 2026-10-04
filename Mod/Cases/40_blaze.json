@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс ифрита",
+    "ru_ru": "Кейс ифрита"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:blaze_rod",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:netherrack",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glowstone_dust",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_apple",
+      "rarity": 4
+    }
+  ],
+  "color": "#FF4500"
+}

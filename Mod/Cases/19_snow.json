@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс снега",
+    "ru_ru": "Кейс снега"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:snow",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:snowball",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:ice",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:packed_ice",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:clay",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#ADD8E6"
+}

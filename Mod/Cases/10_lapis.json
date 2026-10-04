@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс лазурита",
+    "ru_ru": "Кейс лазурита"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:lapis_ore",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:dye",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:lapis_block",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glass",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#4169E1"
+}

@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс вулкана",
+    "ru_ru": "Кейс вулкана"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:netherrack",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:magma",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:obsidian",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:coal",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ore",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#CD5C5C"
+}

@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс торговца",
+    "ru_ru": "Кейс торговца"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:emerald",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_ingot",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:emerald_block",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_apple",
+      "rarity": 4
+    }
+  ],
+  "color": "#BDB76B"
+}

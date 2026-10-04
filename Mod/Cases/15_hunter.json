@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс охотника",
+    "ru_ru": "Кейс охотника"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:bone",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:string",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:leather",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:rotten_flesh",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gunpowder",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:ender_pearl",
+      "rarity": 4
+    }
+  ],
+  "color": "#5C4033"
+}

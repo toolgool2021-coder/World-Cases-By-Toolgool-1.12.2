@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Счастливый кейс",
+    "ru_ru": "Счастливый кейс"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:dirt",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_ingot",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:emerald",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond_block",
+      "rarity": 4
+    }
+  ],
+  "color": "#FFD700"
+}

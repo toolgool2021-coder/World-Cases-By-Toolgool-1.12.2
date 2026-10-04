@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс лучника",
+    "ru_ru": "Кейс лучника"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:string",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:feather",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:arrow",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:bow",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#556B2F"
+}

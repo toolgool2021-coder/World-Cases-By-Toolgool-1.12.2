@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс исследователя",
+    "ru_ru": "Кейс исследователя"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:compass",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:map",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_ingot",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:ender_pearl",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#B8860B"
+}

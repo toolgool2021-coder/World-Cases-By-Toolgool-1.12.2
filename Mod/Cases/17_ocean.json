@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс океана",
+    "ru_ru": "Кейс океана"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:prismarine",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:prismarine_shard",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:prismarine_crystals",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:clay",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:sponge",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#1E90FF"
+}

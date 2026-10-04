@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс алмаза",
+    "ru_ru": "Кейс алмаза"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:coal",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_ingot",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:redstone",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond_block",
+      "rarity": 4
+    }
+  ],
+  "color": "#55FFFF"
+}

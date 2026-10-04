@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс инструментов",
+    "ru_ru": "Кейс инструментов"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:wooden_pickaxe",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:stone_pickaxe",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_pickaxe",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_pickaxe",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond_pickaxe",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#708090"
+}

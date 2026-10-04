@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс строителя",
+    "ru_ru": "Кейс строителя"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:stone",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:stonebrick",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:stained_hardened_clay",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glass",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:quartz_block",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:obsidian",
+      "rarity": 4
+    }
+  ],
+  "color": "#708090"
+}

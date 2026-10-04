@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Зелёный кейс",
+    "ru_ru": "Зелёный кейс"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:green_wool",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:emerald",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:leaves",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:cactus",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#228B22"
+}

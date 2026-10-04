@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс грибника",
+    "ru_ru": "Кейс грибника"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:red_mushroom",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:brown_mushroom",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:mushroom_stew",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:dirt",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#8FBC8F"
+}

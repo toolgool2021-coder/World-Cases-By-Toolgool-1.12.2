@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс магии",
+    "ru_ru": "Кейс магии"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:book",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:experience_bottle",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glowstone_dust",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:ender_pearl",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_apple",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#8A2BE2"
+}

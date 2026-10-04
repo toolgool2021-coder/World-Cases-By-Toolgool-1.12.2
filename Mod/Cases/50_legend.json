@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс легенды",
+    "ru_ru": "Кейс легенды"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:iron_ingot",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:emerald",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:golden_apple",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond_block",
+      "rarity": 4
+    }
+  ],
+  "color": "#C71585"
+}

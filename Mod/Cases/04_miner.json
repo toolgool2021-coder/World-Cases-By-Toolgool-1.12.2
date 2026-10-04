@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс шахтёра",
+    "ru_ru": "Кейс шахтёра"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:coal",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:iron_ingot",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:redstone",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:lapis_ore",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#555555"
+}

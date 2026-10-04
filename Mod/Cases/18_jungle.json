@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс джунглей",
+    "ru_ru": "Кейс джунглей"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:log",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:leaves",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:vines",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:cocoa",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:melon",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#228B22"
+}

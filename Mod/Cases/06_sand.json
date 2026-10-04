@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс пустыни",
+    "ru_ru": "Кейс пустыни"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:sand",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:sandstone",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glass",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:cactus",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:clay",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:gold_ingot",
+      "rarity": 4
+    }
+  ],
+  "color": "#D2B48C"
+}

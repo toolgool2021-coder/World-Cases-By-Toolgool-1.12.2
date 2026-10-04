@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс стекла",
+    "ru_ru": "Кейс стекла"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:glass",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:stained_glass",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:glass_pane",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:stained_glass_pane",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:quartz_block",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:obsidian",
+      "rarity": 4
+    }
+  ],
+  "color": "#B0E0E6"
+}

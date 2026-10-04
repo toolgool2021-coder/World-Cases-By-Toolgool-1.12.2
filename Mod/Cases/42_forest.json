@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс леса",
+    "ru_ru": "Кейс леса"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:log",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:leaves",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:stick",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:apple",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:coal",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#006400"
+}

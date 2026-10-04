@@ -1,0 +1,39 @@
+{
+  "displayName": {
+    "en_us": "Кейс редстоуна",
+    "ru_ru": "Кейс редстоуна"
+  },
+  "contents": [
+    {
+      "action": "extended",
+      "type": "minecraft:redstone",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:redstone_block",
+      "rarity": 0
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:repeater",
+      "rarity": 1
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:comparator",
+      "rarity": 2
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:piston",
+      "rarity": 3
+    },
+    {
+      "action": "extended",
+      "type": "minecraft:diamond",
+      "rarity": 4
+    }
+  ],
+  "color": "#B22222"
+}
