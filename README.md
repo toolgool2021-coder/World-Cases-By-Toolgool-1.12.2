@@ -63,7 +63,7 @@ Example:
 
 .minecraft/
 
-└── mods/
+└── mod/
 
     └── cases-0.6.3.jar
 
@@ -82,7 +82,9 @@ The mod will automatically create its configuration directory.
 The required folder will be:
 
 .minecraft/
+
 └── config/
+
     └── cases/
 
 If the "cases" folder appears, the mod has been installed correctly.
@@ -110,7 +112,9 @@ Select all JSON files from 1 to 50.
 Copy them into:
 
 .minecraft/
+
 └── config/
+
     └── cases/
         ├── 1.json
         ├── 2.json
@@ -127,7 +131,9 @@ Find the world included in the repository.
 Move the world folder into your Minecraft saves directory:
 
 .minecraft/
+
 └── saves/
+
     └── TL Cases/
 
 The exact world folder name may be different depending on the version of the project.
@@ -188,7 +194,9 @@ Have fun!
 Например:
 
 .minecraft/
-└── mods/
+
+└── mod/
+
     └── cases-0.6.3.jar
 
 Запустите Minecraft через профиль Forge.
@@ -206,7 +214,9 @@ Have fun!
 Нужная папка находится здесь:
 
 .minecraft/
+
 └── config/
+
     └── cases/
 
 Если папка "cases" появилась, значит мод установился правильно.
@@ -234,7 +244,9 @@ Cases/
 Перенесите их сюда:
 
 .minecraft/
+
 └── config/
+
     └── cases/
         ├── 1.json
         ├── 2.json
@@ -251,7 +263,9 @@ Cases/
 Перенесите её в папку сохранений Minecraft:
 
 .minecraft/
+
 └── saves/
+
     └── TL Cases/
 
 Название папки мира может отличаться в зависимости от версии проекта.
