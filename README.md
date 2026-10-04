@@ -8,7 +8,7 @@ Minecraft 1.12.2 • Custom Cases • 50 Cases
 
 🎥 TUTORIAL
 
-«English tutorial»
+«RU tutorial»
 
 A complete video tutorial showing how to install the map, mod and all Cases files.
 
