@@ -14,15 +14,15 @@ A complete video tutorial showing how to install the map, mod and all Cases file
 
 Video: "VIDEO LINK WILL BE ADDED HERE"
 
----
-
 📱 MY LINKS
 
 <div align="center">Telegram
 
 "@Toolgool" (https://t.me/Toolgool)
 
-</div>---
+</div>
+
+languages: [🇬🇧] [🇷🇺] | [EN] [RU]
 
 🇬🇧 ABOUT THE PROJECT
 
@@ -39,8 +39,6 @@ Everything in this project was created and configured by me.
 🎁 Try your luck.
 ⛏️ Play in Minecraft 1.12.2.»
 
----
-
 🛠️ INSTALLATION
 
 1. Download the project
@@ -51,15 +49,11 @@ After downloading, extract the repository if it is provided as a ZIP archive.
 
 Inside the repository you will find the required files, including the Cases configuration files and the Minecraft world.
 
----
-
 2. Install Minecraft Forge
 
 Install Minecraft Forge for Minecraft 1.12.2.
 
 «⚠️ The exact Forge version will be added later.»
-
----
 
 3. Install the Cases mod
 
@@ -77,8 +71,6 @@ Wait until Minecraft reaches the main menu.
 
 After that, close Minecraft completely.
 
----
-
 4. Create the Cases configuration folder
 
 Start Minecraft with the Cases mod installed.
@@ -94,8 +86,6 @@ The required folder will be:
 If the "cases" folder appears, the mod has been installed correctly.
 
 Now close Minecraft again.
-
----
 
 5. Install the Cases JSON files
 
@@ -128,8 +118,6 @@ Copy them into:
 
 These files contain the configuration of all 50 Cases.
 
----
-
 6. Install the Minecraft world
 
 Find the world included in the repository.
@@ -141,8 +129,6 @@ Move the world folder into your Minecraft saves directory:
     └── TL Cases/
 
 The exact world folder name may be different depending on the version of the project.
-
----
 
 7. Launch the game
 
@@ -158,7 +144,7 @@ Open Cases, receive rewards and test your luck.
 
 Have fun!
 
----
+
 
 🇷🇺 О ПРОЕКТЕ
 
@@ -175,8 +161,6 @@ Have fun!
 🎁 Испытай удачу.
 ⛏️ Играй в Minecraft 1.12.2.»
 
----
-
 🛠️ УСТАНОВКА
 
 1. Скачайте проект
@@ -187,15 +171,11 @@ Have fun!
 
 Внутри находятся необходимые файлы проекта, конфигурации кейсов и игровой мир.
 
----
-
 2. Установите Minecraft Forge
 
 Установите Minecraft Forge для Minecraft 1.12.2.
 
 «⚠️ Точная версия Forge будет добавлена позже.»
-
----
 
 3. Установите мод Cases
 
@@ -215,8 +195,6 @@ Have fun!
 
 После этого полностью закройте Minecraft.
 
----
-
 4. Создайте папку Cases
 
 Запустите Minecraft с установленным модом Cases.
@@ -232,8 +210,6 @@ Have fun!
 Если папка "cases" появилась, значит мод установился правильно.
 
 После этого снова закройте Minecraft.
-
----
 
 5. Установите JSON-файлы кейсов
 
@@ -266,8 +242,6 @@ Cases/
 
 После этого мод получит конфигурацию всех 50 кейсов.
 
----
-
 6. Установите игровой мир
 
 Найдите папку с миром в скачанном репозитории.
@@ -279,8 +253,6 @@ Cases/
     └── TL Cases/
 
 Название папки мира может отличаться в зависимости от версии проекта.
-
----
 
 7. Запустите игру
 
@@ -295,8 +267,6 @@ Cases/
 Открывайте кейсы, получайте награды и проверяйте свою удачу.
 
 Удачи и приятной игры!
-
----
 
 <div align="center">🎲 TL CASES
 
