@@ -62,7 +62,9 @@ Take the Cases mod from the repository and place it into your Minecraft Forge "m
 Example:
 
 .minecraft/
+
 └── mods/
+
     └── cases-0.6.3.jar
 
 Start Minecraft using the Forge profile.
